@@ -1,0 +1,9 @@
+{
+  "name":"nw-app",
+  "main":"app://localhost/views/polymer-index.html",
+  "window": {
+    "height": 600,
+    "width": 750
+  },
+  "dependencies":{}
+}
