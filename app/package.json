@@ -3,7 +3,11 @@
   "main":"app://localhost/views/polymer-index.html",
   "window": {
     "height": 600,
+    "max_height": 600,
+    "min_height": 600,
     "width": 750,
+    "max_width": 750,
+    "min_width": 750,
     "toolbar": false
   },
   "dependencies":{}
